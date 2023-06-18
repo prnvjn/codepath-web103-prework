@@ -1,8 +1,8 @@
-# WEB103 Prework - *👉🏿 CREATORVERSE*
+# WEB103 Prework - *CREATORVERSE*
 
 Submitted by: **PRANAV JAIN**
 
-About this web app: **👉🏿 app description here**
+About this web app: ** A person's top content creators can say a lot about them. Do they prefer lockpicking videos 🔒, casual art streams 🖼️, or hustle-culture TikTokers 📱?**
 
 Time spent: **👉🏿 18** hours
 
@@ -29,13 +29,13 @@ The following **optional** features are implemented:
 
 The following **additional** features are implemented:
 
-* [] List anything else that you added to improve the site's functionality!
+* [ ] List anything else that you added to improve the site's functionality!
 
 ## Video Walkthrough
 
 Here's a walkthrough of implemented required features:
 
-👉🏿<img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+👉🏿<img src='./images/codepath.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 <!-- Replace this with whatever GIF tool you used! -->
 GIF created with ...  👉🏿 GIF tool here

@@ -41,7 +41,7 @@ const {error} = await supabase
 
 
   return (
-    <div>CreateCreator
+    <div>
 
       <form onSubmit={onSubmit}>
         

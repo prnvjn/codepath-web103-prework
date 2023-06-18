@@ -28,6 +28,8 @@ justify-content:center ;
   display: flex;
   gap: 0.5rem;
 }
+
+
 .cardsGrid{
 display:grid;
 grid-template-columns: repeat(2,1fr) ;gap: 2rem;
@@ -46,9 +48,10 @@ textarea{
 .svg{
   width: 2rem;
   height: 2rem;
+  fill: var(--color)!important;
 }
 .yt{
-  fill: var(--background-color);
+  fill: var(--card-background-color)!important;
   width: 2rem;
   height: 1.5rem;
 
