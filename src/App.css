@@ -1,0 +1,74 @@
+/* @import url(index.css); */
+.flex{
+  display: flex;
+justify-content:center ;
+  align-items: center;
+  flex-direction: column;
+}
+.title{
+  font-size: 5rem;
+  font-weight: 800;
+  text-align: center;
+}
+
+.gradient{
+  background: linear-gradient(90deg, #00ffff 0%, #ff00ff 100%);
+  min-height:60vh ;
+  display: flex;
+  
+}
+.socials{
+  display: flex;
+  gap: 1rem;
+  flex-direction: column;
+  margin-bottom: 2rem;
+
+}
+.socialCard{
+  display: flex;
+  gap: 0.5rem;
+}
+.cardsGrid{
+display:grid;
+grid-template-columns: repeat(2,1fr) ;gap: 2rem;
+margin-bottom: 2rem;
+
+}
+
+textarea{
+  width: 100%;
+}
+
+.inputName{
+  margin-bottom: 0;
+}
+
+.svg{
+  width: 2rem;
+  height: 2rem;
+}
+.yt{
+  fill: var(--background-color);
+  width: 2rem;
+  height: 1.5rem;
+
+}
+.icons{
+  display: flex;
+  justify-content: end;
+  gap: 1rem;
+}
+.delete{
+  background: #e20707;
+  border: #e20707;
+}
+
+.delete:hover{
+  background: #de1717;
+}
+@media (max-width: 768px) { 
+  .cardsGrid{
+    grid-template-columns: repeat(1,1fr) ;
+  }
+
+}
